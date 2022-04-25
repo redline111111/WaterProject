@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KM22g+6yWDLGE5AsL1KTVfxteUFyY0IMNZ6uFlqPjN1LsAqtHnUZ5PD07KVPskqVLzYT4c5ZnVzMU5o0knnA2Q==",
+  "success": true,
+  "projectFilePath": "D:\\XamarinStudentsCode_HW1_2022_1-master\\HW1\\HW1\\HW1\\HW1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hando\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hando\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hando\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hando\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\hando\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

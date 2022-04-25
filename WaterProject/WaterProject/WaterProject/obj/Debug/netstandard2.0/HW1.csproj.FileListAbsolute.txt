@@ -1,0 +1,16 @@
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\bin\Debug\netstandard2.0\HW1.deps.json
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\bin\Debug\netstandard2.0\HW1.dll
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\bin\Debug\netstandard2.0\HW1.pdb
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.csproj.AssemblyReference.cache
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\AddItemPage.xaml.g.cs
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.AssemblyInfoInputs.cache
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.AssemblyInfo.cs
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.csproj.CoreCompileInputs.cache
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.dll
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\refint\HW1.dll
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\HW1.pdb
+D:\XamarinStudentsCode_HW1_2022_1-master\HW1\HW1\HW1\obj\Debug\netstandard2.0\ref\HW1.dll
